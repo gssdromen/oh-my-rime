@@ -1,0 +1,18 @@
+patch:
+  schema_list:
+    - schema: rime_mint # 薄荷拼音
+    - schema: double_pinyin_flypy # 小鹤双拼
+    - schema: rime_mint_flypy # 薄荷拼音-小鹤混输方案
+
+  menu:
+    # 候选词个数
+    page_size: 7
+
+  ascii_composer:
+    # 定义切换到西文模式的快捷键
+    switch_key:
+      Caps_Lock: commit_code # 按下 Caps Lock 会直接上屏
+      Control_L: clear # 按下左 Control 键不做任何操作
+      Control_R: noop # 按下右 Control 键不做任何操作
+      Shift_L: noop # 按下左 Shift 键会直接上屏
+      Shift_R: noop # 按下右 Shift 键会临时切换到西文模式
