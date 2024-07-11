@@ -13,3 +13,4 @@ build
 *.custom.yaml
 !default.custom.yaml
 !squirrel.custom.yaml
+!double_pinyin_flypy.custom.yaml
