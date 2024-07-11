@@ -1,8 +1,9 @@
 patch:
-  style:
-    text_orientation: horizontal  # horizontal | vertical
-    # 内嵌预编辑
-    inline_preedit: false
+  # horizontal | vertical
+  style/text_orientation: horizontal
+  # 内嵌预编辑
+  style/inline_preedit: false
+  style/candidate_list_layout: linear
 
   us_keyboard_layout: true                               # 美式键盘布局
   show_notifications_when: always                 # 状态通知，适当(appropriate)，也可设为全开（always）全关（never）
