@@ -7,13 +7,14 @@
 name: cedric
 version: "2023.11.30"
 sort: by_weight
----
+...
+
 # 人名
-北子	bei zi	99
-阿北子	a bei zi	99
-小北子	xiao bei zi	99
-小诺诺	xiao nuo nuo	99
-臭诺诺	chou nuo nuo	99
+北子	bei zi	100
+阿北子	aa bei zi	100
+小北子	xiao bei zi	100
+小诺诺	xiao nuo nuo	100
+臭诺诺	chou nuo nuo	100
 # 常用语
 # 工具
 # (｡>ㅅ<｡)
