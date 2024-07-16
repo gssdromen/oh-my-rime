@@ -10,17 +10,17 @@ sort: by_weight
 ...
 
 # 北
-北子  bei zi  100
-阿北子 aa bei zi 100
-小北子 xiao bei zi 100
+北子	bei zi	100
+阿北子	aa bei zi	100
+小北子	xiao bei zi	100
 
 # 诺
-小诺诺 xiao nuo nuo  100
-臭诺诺 chou nuo nuo  100
+小诺诺	xiao nuo nuo	100
+臭诺诺	chou nuo nuo	100
 
 # 其他人
-小阿舅 xiao aa jiu 100
-阿母  aa mu 100
+小阿舅	xiao aa jiu	100
+阿母	aa mu	100
 
 # 其他
-预备备  yu bei bei  100
+预备备	yu bei bei	100
